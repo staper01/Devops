@@ -2,8 +2,6 @@ Testovacia jahodka ;)
 
 Update 04
 
-Toto je dalsia uprava.
+Toto je dalsia uprava. #2
 
-
-A toto je napisane na serveri!!!
 
