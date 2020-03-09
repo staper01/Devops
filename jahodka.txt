@@ -4,12 +4,6 @@ Toto je dalsia uprava. #2
 
 
 A toto je napisane na serveri!!!
-<<<<<<< HEAD
 Asi? Ta neviem ci nevidis abo co ale nie nie je 
 
 Je to tu, prvy potvrdeny pripad KOroNAviru na pocitaci
-=======
-Asi?
-
-tak nieco upravim aj ja, ak mozem
->>>>>>> 125c0a3b8a6502ea7c05dd827c0abe358349f399
