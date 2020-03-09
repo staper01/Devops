@@ -6,4 +6,5 @@ Toto je dalsia uprava.
 
 
 A toto je napisane na serveri!!!
+Asi?
 
