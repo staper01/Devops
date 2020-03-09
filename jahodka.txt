@@ -5,3 +5,5 @@ Toto je dalsia uprava. #2
 
 A toto je napisane na serveri!!!
 Asi?
+
+tak nieco upravim aj ja, ak mozem
