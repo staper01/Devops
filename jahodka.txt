@@ -5,5 +5,5 @@ Update 04
 Toto je dalsia uprava.
 
 
-A toto je napisane na serveri!
+A toto je napisane na serveri!!!
 
