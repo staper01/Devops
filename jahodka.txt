@@ -4,5 +4,5 @@ Update 04
 
 Toto som napisal lokalne.
 
-A toto je napisane na serveri!
+A toto je napisane na serveri!!!
 
