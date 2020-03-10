@@ -1,1 +1,0 @@
-Cuco riedka.
